@@ -4,7 +4,7 @@ import nltk
 from nltk.tokenize import TreebankWordTokenizer
 from nltk.metrics.distance  import edit_distance
 
-df = pd.read_excel("D:\\Uppwise\\ResultsDS.xlsx")
+df = pd.read_excel("ResultsDS.xlsx")
 
 
 sentence = "Write a query to join teaspaceregisterkeyresultsqlds and teamspaceregisterthemsqldds."
