@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'RGFastApi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_350D21061C034848872E7CBD92C7E4A9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8CD5386EFD5B475D87B2921524E5F931 }}
